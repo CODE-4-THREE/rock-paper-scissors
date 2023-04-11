@@ -1,0 +1,6 @@
+[submodule "rock-paper-scissors-front"]
+	path = rock-paper-scissors-front
+	url = https://github.com/CODE-4-THREE/rock-paper-scissors-front.git
+[submodule "rock-paper-scissors-back"]
+	path = rock-paper-scissors-back
+	url = https://github.com/CODE-4-THREE/rock-paper-scissors-back.git
